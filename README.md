@@ -6,7 +6,7 @@ Build a binary classifier based on 3 layers neural network using the human versu
 
 ## Binary classification based on 3 layers neural network
 
-$`(x_i, y_i)`$ denotes a pair of a training example and $`i = 1, 2, \cdots, n`$
+$ `(x_i, y_i)` $ denotes a pair of a training example and $`i = 1, 2, \cdots, n`$
 
 $`p_i = \sigma(u^T x_i + a)`$ (hidden layer)
 
